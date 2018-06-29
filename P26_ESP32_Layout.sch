@@ -139,4 +139,20 @@ Wire Wire Line
 	4350 2400 4350 3100
 Wire Wire Line
 	4100 2400 4100 2650
+Wire Wire Line
+	4550 3500 4350 3500
+Text GLabel 4350 3500 0    50   Input ~ 0
+MOTOR1
+Wire Wire Line
+	4550 3600 4350 3600
+Text GLabel 4350 3600 0    50   Input ~ 0
+MOTOR2
+Wire Wire Line
+	4550 3700 4350 3700
+Text GLabel 4350 3700 0    50   Input ~ 0
+MOTOR3
+Wire Wire Line
+	4550 3800 4350 3800
+Text GLabel 4350 3800 0    50   Input ~ 0
+MOTOR4
 $EndSCHEMATC
